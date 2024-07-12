@@ -1,0 +1,24 @@
+{
+  "name": "nodeboiler",
+  "version": "1.0.0",
+  "description": "a simple tool to convert your simple server.js into oneliner",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshTripathi1103/serverboiler.git"
+  },
+  "keywords": [
+    "serverside"
+  ],
+  "author": "node_monk_007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarshTripathi1103/serverboiler/issues"
+  },
+  "homepage": "https://github.com/HarshTripathi1103/serverboiler#readme"
+}
